@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "title": "Example Challenge",
+  "authors": [
+    {
+      "name": "HexF",
+      "link": "https://hexf.me/"
+    }
+  ],
+  "flag": {
+    "sha256": "fc26b86cf1c0635da4f84427cc9c9122e467a50cf8e726e339be03542bbbe15f",
+    "moderator": "NGB8q5CmX37KAQO7ezZzCsCYH/4ePvCi5ePe2KtC+goG/U9BaOH3VSW554m+ofUeTzg7tGbuPNbcShJkVgVt8U7x4FdBhOX+p415igLk8Rj2GxgloCCcv5Ju2mxv2UDBW/A6Ld4lZoWCCMMv8s/9GwQn8on2KdX7Uq0YcV8gUoQxFiW78/24E0jx4OdpPaQDECob0H9Vzmtvp4wT7Qw4Br3euzw9ZRqvVYIF9DDTIb00X1eVjkHFyLcVM4nKqveFyZv08FANFS/WjdGyZ+LkDL2V4IEtGcYqB1RNVjQHZfBfNeJQ/Qp6e9bzntO0fKWYZj7QoZdIT3DP5hPvcX1/R16o9u/mPX36spiD4+GCKsiCCN+1IispmK/9Hb/gNKiyHap/V92mEMzg/wTlRb69Msj6nU/ffmamw/TeI2iq+0Y1stKR0T93ndRH/maGCjPAnIBOzjkhjsrDZmAVvgQ0HSZ2Igq0SGT9ufkc/yDCBHI7vMdoeASoSuTO8cBWA7DxLRb4tqk3JO5eNCLB9rhDZzhLNiZIAj5OIqzjA6Lju2eXvrZYWrhElEvGrBdOFXjuvWBLlZ1PNNnI8/oG1g5z6jgoMY8QjbGc0eUMqfSSrZgoY5f8v8mXeIzZMFSxMzG1JHSApnuEfcaqXwSl5zjP24fzCY6Y4ORpy628pwehJRU="
+  }
+}
