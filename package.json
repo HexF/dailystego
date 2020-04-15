@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "inquirer": "^7.1.0",
+    "stream-buffers": "^3.0.2",
+    "tar": "^6.0.1"
+  },
+  "name": "dailystego",
+  "version": "1.0.0",
+  "description": "Daily stegonography challenges delivered to your door",
+  "main": "",
+  "repository": "git@github.com:HexF/dailystego.git",
+  "author": "Thomas Hobson <git@hexf.me>",
+  "license": "Zlib",
+  "private": true,
+  "scripts": {
+    "mkchallenge": "node tools/mkchallenge.js",
+    "seal": "node tools/seal.js"
+  }
+}

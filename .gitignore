@@ -1,0 +1,9 @@
+# Lets not leak our keys
+keyring/*.key
+
+# Space.
+node_modules 
+
+# Don't contribute decrypted challenges
+challenges/backlog/*/
+!challenges/backlog/example-challenge
