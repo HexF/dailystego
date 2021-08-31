@@ -3,7 +3,7 @@
     "chalk": "^4.0.0",
     "inquirer": "^7.1.0",
     "stream-buffers": "^3.0.2",
-    "tar": "^6.0.1"
+    "tar": "^6.1.9"
   },
   "name": "dailystego",
   "version": "1.0.0",
